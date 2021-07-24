@@ -1,6 +1,6 @@
 # author : Snehashish Laskar
 # email : snehashish.laskar@gmail.com
-# LICENSE : MIT
+# LICENSE : Apache 2.0
 # Project name : Site password hasher
 """
 Objective of this project:
